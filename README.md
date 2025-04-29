@@ -1,9 +1,9 @@
-Otaku-Haven 🎌
+HAMED HIAIDARI 🎌
 
-Welcome to Otaku Haven, your one-stop platform for all things anime,manga movies and tvshows! This project is designed to provide a seamless and engaging experience for anime enthusiasts, featuring community-driven content, personalized recommendations, and much more.
+Project Summary: THE ULTIMATE Movie and TV Series Streaming Website , Overview: The project is a streaming website developed using React.js, Tailwind CSS, and integrating the TMDB API (The Movie Database API). It provides users with a platform to watch movies and TV series for free.
 
 🌐 Live Demo  
-Check out the live version of Otaku Haven: [Otaku Haven](https://otaku-haven-alpha.vercel.app)
+Check out the live version : [FLIXZONE]  (https://flixzone.tv)
 
 🚀 Features  
 
